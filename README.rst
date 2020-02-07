@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaehr%2Finternetarchive.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaehr%2Finternetarchive?ref=badge_shield)
+
 A Python and Command-Line Interface to Archive.org
 ==================================================
 
@@ -42,3 +44,7 @@ Contributing
 ------------
 
 All contributions are welcome and appreciated. Please see `https://archive.org/services/docs/api/internetarchive/contributing.html <https://archive.org/services/docs/api/internetarchive/contributing.html>`_ for more details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaehr%2Finternetarchive.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaehr%2Finternetarchive?ref=badge_large)
